@@ -1,6 +1,7 @@
 **ESP32-S3 GUI Design for Hotel Room Control**
 
-This repository contains the GUI design for an ESP32-S3 based display screen, specifically tailored for the hotel industry. The display screen has a resolution of 480x480 pixels and is designed to control various aspects of a hotel room environment.
+This repository contains the GUI design for an ESP32-S3 based display screen, specifically tailored for the hotel industry. 
+The display screen has a resolution of 480x480 pixels and is designed to control various aspects of a hotel room environment.
 
 **Features**
 Air Conditioner Control: Interface for managing the air conditioning system in the room.
